@@ -1,0 +1,4 @@
+#!bin/bash
+hosts: apacheweb
+ssh: yes
+this is just sample file
