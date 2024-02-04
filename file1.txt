@@ -1,3 +1,0 @@
-creating file1
-adding second line to file1
-added third line 
